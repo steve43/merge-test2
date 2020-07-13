@@ -18,7 +18,7 @@ paths:
   /questions:
     x-summary: Questions Collection
     get:
-      summary: List All Questions
+      summary: Change a
       responses:
         200:
           description: Successful Response
